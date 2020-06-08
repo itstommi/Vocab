@@ -1,36 +1,38 @@
-""" The commented part is the old version """
+""" This program outputs the word of the day from dictionary.com
+Usage: $ python3 vocab.py
+"""
 
 import requests
 from bs4 import BeautifulSoup
 
+# Define Colors
 reset = '\033[0m'
 bold = '\033[1m'
 italic = '\x1B[3m'
 cyan = '\033[36m'
+red = '\u001b[31m'
 darkgrey = '\033[90m'
 
-# URL = 'https://learnersdictionary.com/word-of-the-day'
-# page = requests.get(URL)
-# soup = BeautifulSoup(page.content, 'html.parser')
+# Start scraper
+try:
+    URL = 'https://www.dictionary.com/e/word-of-the-day/'
+    page = requests.get(URL)
+    soup = BeautifulSoup(page.content, 'html.parser')
+except:
+    print(red + "An error occured." + reset)
+    exit()
 
-# word = soup.find('span', class_='hw_txt').text
-# kind = soup.find('div', class_='fl').text
-# definition = soup.find('div', class_='midbt').text
-
-# print(f"{cyan}{word}{reset}: {darkgrey}{italic}{bold}{kind}{reset} {definition[2:].strip()}")
-
-URL = 'https://www.dictionary.com/e/word-of-the-day/'
-page = requests.get(URL)
-soup = BeautifulSoup(page.content, 'html.parser')
-
+# Find the word of the day, pronounciation, kind of word, and definition
 word = soup.find('div', class_='wotd-item-headword__word').text.strip()
 pron = soup.find('div', class_='wotd-item-headword__pronunciation').text.strip()
 kind = soup.find('span', class_='luna-pos').text.strip()
 definition = soup.find('div', class_='wotd-item-headword__pos').find_all('p')[1].text.strip()
 
+# Remove spaces in the pronounciation
 pron = pron[0:1:] + pron[2::]
 pron = pron[0:-2:] + pron[-1::]
 
+# Print Everything
 print(bold + cyan + word + reset + ' ' + pron + ': ' + italic + darkgrey + kind + reset)
 print(definition)
 print()
