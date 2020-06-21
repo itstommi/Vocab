@@ -15,9 +15,9 @@
 - On lines 158-161 of the .hyper.js file, I left cool plugins for you guys to check out, but I don't use them atm
 
 # Files
-- .hyper.js - My Hyper config file
-- .bash_profile - My bash configuration
-- vocab.py - The python file to scrape dictionary.com for the word of the day
+- ```.hyper.js``` - My Hyper config file
+- ```.bash_profile``` - My bash configuration
+- ```vocab.py``` - The python file to scrape dictionary.com for the word of the day
 
 # Requirements
 $ ```pip install requests``` <br/>
