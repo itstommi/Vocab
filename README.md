@@ -20,7 +20,7 @@
 - vocab.py - The python file to scrape dictionary.com for the word of the day
 
 # Requirements
-$ ```pip install requests```
+$ ```pip install requests``` \n
 $ ```pip install bs4```
 
 # FAQ
