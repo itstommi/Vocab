@@ -20,8 +20,8 @@
 - vocab.py - The python file to scrape dictionary.com for the word of the day
 
 # Requirements
-$ ```pip install requests``` <br/>
-$ ```pip install bs4```
+```pip install requests``` <br/>
+```pip install bs4```
 
 # FAQ
 - Q: How do you get your terminal to look like that? A: I use a terminal called Hyper with a theme called 'hyperterm-material'
