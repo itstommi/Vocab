@@ -3,7 +3,7 @@ Displays a new vocabulary word everyday in your terminal using a python web scra
 
 # Screenshot
 ![Screenshot](https://i.imgur.com/IfwgKjL.png)
-<img src="https://i.imgur.com/IfwgKjL.png" alt="Screenshot" style="width: 50px;">
+<img src="https://i.imgur.com/IfwgKjL.png" alt="Screenshot" width="50"/>
 
 # Updates
 <b>6/2/2020</b> - Please read the important notes! If you cloned/downloaded before 6/2/2020, I have updated this repository. Instead of using hyper-init to run commands, I just put them in .bash_profile
