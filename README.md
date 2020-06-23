@@ -1,3 +1,5 @@
+![Screenshot](https://imgur.com/a/650FUrP)
+
 # Updates
 - 6/2/2020: Please read the important notes! If you cloned/downloaded before 6/2/2020, I have updated this repository. Instead of using hyper-init to run commands, I just put them in .bash_profile
 
