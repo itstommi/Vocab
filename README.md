@@ -4,6 +4,15 @@ Displays a new vocabulary word everyday in your terminal using a python web scra
 # Screenshot
 ![Screenshot](https://i.imgur.com/IfwgKjL.png)
 
+# Requirements
+```pip install requests``` <br>
+```pip install bs4```
+
+# Files
+<b>.hyper.js</b> - My Hyper config file <br>
+<b>.bash_profile</b> - My bash configuration <br>
+<b>vocab.py</b> - The python file to scrape dictionary.com for the word of the day
+
 # Updates
 <b>6/2/2020</b> - Please read the important notes! If you cloned/downloaded before 6/2/2020, I have updated this repository. Instead of using hyper-init to run commands, I just put them in .bash_profile
 
@@ -16,15 +25,6 @@ Displays a new vocabulary word everyday in your terminal using a python web scra
 - The code in .bash_profile is commented. Please look thru and make changes if needed (change the path on the 'vocab' command in the .bash_profile according to where you clone/download)
 - On lines 155-157 of the .hyper.js file, those are the plugins I prefer.
 - On lines 158-161 of the .hyper.js file, I left cool plugins for you guys to check out
-
-# Files
-<b>.hyper.js</b> - My Hyper config file <br>
-<b>.bash_profile</b> - My bash configuration <br>
-<b>vocab.py</b> - The python file to scrape dictionary.com for the word of the day
-
-# Requirements
-```pip install requests``` <br>
-```pip install bs4```
 
 # FAQ
 - Q: How do you get your terminal to look like that? A: I use a terminal called Hyper with a theme called 'hyperterm-material'
