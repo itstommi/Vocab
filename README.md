@@ -1,4 +1,4 @@
-![Screenshot](https://imgur.com/a/650FUrP)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/650FUrP"><a href="//imgur.com/a/650FUrP">https://github.com/itstommi/Vocab</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Updates
 - 6/2/2020: Please read the important notes! If you cloned/downloaded before 6/2/2020, I have updated this repository. Instead of using hyper-init to run commands, I just put them in .bash_profile
