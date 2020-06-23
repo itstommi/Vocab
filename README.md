@@ -7,7 +7,7 @@
 # Important Notes
 - If you just want the Python script, just look at vocab.py and be on your merry way. If you're interested in the Hyper configuration or Bash stuff, keep reading.
 - I made this on Mac OS running Bash terminal; If you're on Windows, I'm not sure if I can help troubleshoot.
-- I use a terminal called Hyper (https://hyper.is).
+- I use a terminal called [Hyper](https://hyper.is).
 - The new Mac OS Catalina uses Zsh instead of Bash, but I switched back to Bash using Hyper (in the config file, it is on line 108). Please change this accordingly as there are instructions in the file.
 - On Catalina, switching back to Bash gives an ugly message everytime a new terminal window opens, so I configured .bash_profile to remove the message. If you never got the message in the first place, you can remove lines 1-3 on the .bash_profile
 - The code in .bash_profile is commented. Please look thru and make changes if needed (change the path on the 'vocab' command in the .bash_profile according to where you clone/download)
