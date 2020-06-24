@@ -1,5 +1,5 @@
 # Description
-Displays a new vocabulary word everyday in your terminal using a python web scraper. I assume you found this on r/Python, know about python, and how to use it in your OS. I also assume you know how to use the shell your computer is running. If you have questions that aren't related to anything OS specific, feel free to ask or pm me on [Reddit](https://reddit.com/user/ImportantDesk) (don't read my comments before 6/2/2020 as they are now outdated. Everything you need to know is in included below).
+Displays a new vocabulary word everyday in your terminal using a python web scraper. If you have questions, feel free to pm me on [Reddit](https://reddit.com/user/ImportantDesk) (don't read my comments before 6/2/2020 as they are now outdated. Everything you need to know is in included below).
 
 # Screenshot
 ![Screenshot](https://i.imgur.com/IfwgKjL.png)
