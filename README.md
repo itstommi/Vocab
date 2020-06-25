@@ -25,6 +25,3 @@ Displays a new vocabulary word everyday in your terminal using a python web scra
 - The code in .bash_profile is commented. Please look thru and make changes if needed (change the path on the 'vocab' command in the .bash_profile according to where you clone/download)
 - On lines 155-157 of the .hyper.js file, those are the plugins I prefer.
 - On lines 158-161 of the .hyper.js file, I left cool plugins for you guys to check out
-
-# FAQ
-- Q: How do you get your terminal to look like that? A: I use a terminal called Hyper with a theme called 'hyperterm-material'
