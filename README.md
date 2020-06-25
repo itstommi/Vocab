@@ -17,7 +17,7 @@ Displays a new vocabulary word everyday in your terminal using a python web scra
 <b>6/2/2020</b> - Please read the important notes! If you cloned/downloaded before 6/2/2020, I have updated this repository. Instead of using hyper-init to run commands, I just put them in .bash_profile
 
 # Important Notes
-- If you just want the Python script, just look at vocab.py and be on your merry way. If you're interested in the Hyper configuration or Bash stuff, keep reading.
+- If you just want the Python script that displays the word, just look at <b>vocab.py</b>. If you're interested in the Hyper configuration or Bash stuff, keep reading.
 - I made this on Mac OS running Bash terminal; If you're on Windows, I'm not sure if I can help troubleshoot.
 - I use a terminal called [Hyper](https://hyper.is).
 - The new Mac OS Catalina uses Zsh instead of Bash, but I switched back to Bash using Hyper (in the config file, it is on line 108). Please change this accordingly as there are instructions in the file.
