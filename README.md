@@ -1,22 +1,22 @@
 # About
 Displays a new vocabulary word everyday in your terminal using a python web scraper. If you have questions, feel free to pm me on [Reddit](https://reddit.com/user/ImportantDesk) (Don't read my comments before 6/2/2020 as they are now outdated. Everything you need to know is in included below).
 
-### Screenshot
+## Screenshot
 ![Screenshot](https://i.imgur.com/IfwgKjL.png)
 
-### Requirements
+## Requirements
 ```pip install requests``` <br>
 ```pip install bs4```
 
-### Files
+## Files
 <b>.hyper.js</b> - My Hyper config file <br>
 <b>.bash_profile</b> - My bash configuration <br>
 <b>vocab.py</b> - The python file to scrape dictionary.com for the word of the day
 
-### Updates
+## Updates
 <b>6/2/2020</b> - Please read the important notes! If you cloned/downloaded before 6/2/2020, I have updated this repository. Instead of using hyper-init to run commands, I just put them in .bash_profile
 
-### Important Notes
+## Important Notes
 - The terminal I use is called [Hyper](https://hyper.is).
 - If you just want the Python script that displays the word, just look at <b>vocab.py</b>. If you're interested in the Hyper configuration or Bash stuff, keep reading.
 - I made this on Mac OS running Bash terminal; If you're on Windows, I'm not sure if I can help troubleshoot.
