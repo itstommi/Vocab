@@ -19,9 +19,9 @@ Displays a new vocabulary word everyday in your terminal using a python web scra
 ## Important Notes
 - The terminal I use is called [Hyper](https://hyper.is).
 - If you just want the Python script that displays the word, just look at <b>vocab.py</b>. If you're interested in the Hyper configuration or Bash stuff, keep reading.
-- I made this on Mac OS running Bash terminal; If you're on Windows, I'm not sure if I can help troubleshoot.
-- The new Mac OS Catalina uses Zsh instead of Bash, but I switched back to Bash using Hyper (in the config file, it is on line 108). Please change this accordingly as there are instructions in the file.
-- On Catalina, switching back to Bash gives an ugly message everytime a new terminal window opens, so I configured .bash_profile to remove the message. If you never got the message in the first place, you can remove lines 1-3 on the .bash_profile
+- I made this on Mac running Bash terminal; If you're on Windows, I'm not sure if I can help troubleshoot.
+- The new macOS Catalina uses Zsh instead of Bash, but I switched back to Bash using Hyper (in the config file, it is on line 108). Please change this accordingly as there are instructions in the file.
+- On macOS Catalina, switching back to Bash gives an ugly message everytime a new terminal window opens, so I configured .bash_profile to remove the message. If you never got the message in the first place, you can remove lines 1-3 on the .bash_profile
 - The code in .bash_profile is commented. Please look thru and make changes if needed (change the path on the 'vocab' command in the .bash_profile according to where you clone/download)
 - On lines 155-157 of the .hyper.js file, those are the plugins I prefer.
 - On lines 158-161 of the .hyper.js file, I left cool plugins for you guys to check out
