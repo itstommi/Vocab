@@ -6,8 +6,8 @@ Displays a new vocabulary word everyday in your terminal using a python web scra
 
 ## Requirements
 - requests
-- bs4
-To install, run the following commands:
+- bs4 <br>
+To install, run the following commands: <br>
 ```pip install requests``` <br>
 ```pip install bs4```
 
