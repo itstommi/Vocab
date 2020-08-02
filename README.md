@@ -5,9 +5,8 @@ Displays a new vocabulary word everyday in your terminal using a python web scra
 ![Screenshot](https://i.imgur.com/IfwgKjL.png)
 
 ## Requirements
-- requests
-- bs4 <br>
-To install, run the following commands: <br>
+Run the following commands:
+<br><br>
 ```pip install requests``` <br>
 ```pip install bs4```
 
