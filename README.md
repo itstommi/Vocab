@@ -1,5 +1,5 @@
 # About
-Displays a new vocabulary word everyday in your terminal using a python web scraper. If you have questions, feel free to pm me on [Reddit](https://reddit.com/user/ImportantDesk) (Don't read my comments before 6/2/2020 as they are now outdated. Everything you need to know is included below).
+Displays a new vocabulary word everyday in your terminal using python with Selenium. If you have questions, feel free to pm me on [Reddit](https://reddit.com/user/ImportantDesk) (Don't read my comments before 6/2/2020 as they are now outdated. Everything you need to know is included below).
 
 ## Screenshot
 ![Screenshot](https://i.imgur.com/IfwgKjL.png)
