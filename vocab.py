@@ -23,10 +23,10 @@ except:
     exit()
 
 # Find the word of the day, pronounciation, kind of word, and definition
-word = soup.find('div', class_='wotd-item-headword__word').text.strip()
-pron = soup.find('div', class_='wotd-item-headword__pronunciation').text.strip()
+word = soup.find('div', class_='otd-item-headword__word').text.strip()
+pron = soup.find('div', class_='otd-item-headword__pronunciation').text.strip()
 kind = soup.find('span', class_='luna-pos').text.strip()
-definition = soup.find('div', class_='wotd-item-headword__pos').find_all('p')[1].text.strip()
+definition = soup.find('div', class_='otd-item-headword__pos').find_all('p')[1].text.strip()
 
 # Remove spaces in the pronounciation
 pron = pron[0:1:] + pron[2::]
