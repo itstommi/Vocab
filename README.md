@@ -1,6 +1,9 @@
 # About
 Displays a new vocabulary word everyday in your terminal using Python with Selenium. If you have questions, feel free to pm me on [Reddit](https://reddit.com/user/ImportantDesk) (Ignore my comments before 6/2/2020 as they are now outdated. Everything you need to know is included below).
 
+## Gif
+![](terminal.png)
+
 ## Screenshot
 ![Screenshot](https://i.imgur.com/IfwgKjL.png)
 
