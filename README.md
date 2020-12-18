@@ -1,4 +1,9 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+[![GitHub issues](https://img.shields.io/github/issues/itstommi/Vocab?style=for-the-badge)](https://github.com/itstommi/Vocab/issues)
+[![GitHub forks](https://img.shields.io/github/forks/itstommi/Vocab?style=for-the-badge)](https://github.com/itstommi/Vocab/network)
+[![GitHub stars](https://img.shields.io/github/stars/itstommi/Vocab?style=for-the-badge)](https://github.com/itstommi/Vocab/stargazers)
 
 # About
 Displays a new vocabulary word everyday in your terminal using Python with Selenium. If you have questions, feel free to pm me on [Reddit](https://reddit.com/user/ImportantDesk) (Ignore my comments before 6/2/2020 as they are now outdated. Everything you need to know is included below).
