@@ -1,11 +1,6 @@
 <h1 align="center">Vocab</h1>
 
 <div align="center">
-  <strong>~ Expand your vocabulary with new words daily ~</strong>
-  
-  Displays a new vocabulary word everyday in your terminal using Python with Selenium. If you have questions, feel free to message me on <a href="https://reddit.com/user/ImportantDesk">Reddit</a> (Ignore my comments before 6/2/2020 as they are now outdated. Everything you need to know is included below).
-  
-  <br>
   
   [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -14,6 +9,12 @@
   [![GitHub forks](https://img.shields.io/github/forks/itstommi/Vocab?style=for-the-badge)](https://github.com/itstommi/Vocab/network)
   [![GitHub stars](https://img.shields.io/github/stars/itstommi/Vocab?style=for-the-badge)](https://github.com/itstommi/Vocab/stargazers)
   
+  <br>
+  
+  <strong>~ Expand your vocabulary with new words daily ~</strong>
+  
+  Displays a new vocabulary word everyday in your terminal using Python with Selenium. If you have questions, feel free to message me on <a href="https://reddit.com/user/ImportantDesk">Reddit</a> (Ignore my comments before 6/2/2020 as they are now outdated. Everything you need to know is included below).
+
 </div>
 <br>
 
