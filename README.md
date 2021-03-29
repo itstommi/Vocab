@@ -1,9 +1,10 @@
 <h1 align="center">Vocab</h1>
 
 <div align="center">
-  <strong align="center"><i>Learn a new word everyday.</i></strong>
+  <strong>~ Expand your vocabulary with new words daily ~</strong>
   
-  <br>
+  Displays a new vocabulary word everyday in your terminal using Python with Selenium. If you have questions, feel free to message me on <a href="https://reddit.com/user/ImportantDesk">Reddit</a> (Ignore my comments before 6/2/2020 as they are now outdated. Everything you need to know is included below).
+  
   <br>
   
   [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
@@ -15,10 +16,6 @@
   
 </div>
 <br>
-
-<div align="center">
-Displays a new vocabulary word everyday in your terminal using Python with Selenium. If you have questions, feel free to message me on <a href="https://reddit.com/user/ImportantDesk">Reddit</a> (Ignore my comments before 6/2/2020 as they are now outdated. Everything you need to know is included below).
-</div>
 
 ## Preview
 ![Demo Gif](demo.gif)
